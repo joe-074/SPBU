@@ -35,7 +35,7 @@ Common tools and libraries:
 - PyTorch or TensorFlow
 - OpenCV
 - Jupyter Notebooks
-- Linux, Git, Docker
+- Linux, Git
 
 ## Structure
 
@@ -43,4 +43,4 @@ Projects are separated by topic or course and may include:
 - Source code
 - Experiments and tests
 - Reports and notes
-- Dataset files (ignored where necessary)
+- Dataset files 
